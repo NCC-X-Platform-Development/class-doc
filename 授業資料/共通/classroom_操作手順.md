@@ -15,13 +15,13 @@
 6. 最終提出の際は、該当の Pull Request （ PR ）に、デバッグビルドした画面のスクリーンショットを送ってください
    1. 該当の PR には次の手順でたどり着けます
       1. 招待用リンクを開く
-      2. https://github ~~ と書かれたリンクを開く
+      2. <https://github~~> と書かれたリンクを開く
          1. ![alt text](./素材/Classroom/repository_url.jpg)
       3. GitHub が開くので、「 Pull Request 」タブを開く
          1. ![alt text](./素材/Classroom/pull_request_tab.jpg)
       4. Feedback をクリックする
          1. ![alt text](./素材/Classroom/pull_request_detail.jpg)
-7. コードレビューを希望する場合は、該当の PR にコードレビューを希望する旨のコメントを追加し、 「 Assignees 」から私（ ncc-toda ）を割り当ててください。
+7. 先生からの指示に従い、必要に応じてコメントを残す
 
 ## トラブルシューティング
 
